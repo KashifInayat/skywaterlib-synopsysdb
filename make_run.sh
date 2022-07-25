@@ -23,6 +23,10 @@ git clone https://github.com/KashifInayat/skywater-pdk.git
 cd skywater-pdk
 git checkout main
 cd ../
+
+pip install sphinx_materialdesign_theme or pip install sphinx-material
+
+pip install --upgrade symbolator
 }
 
 CommandLog |& tee "${Log_File}"
