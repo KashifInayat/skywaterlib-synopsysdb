@@ -45,3 +45,7 @@ In `PlaceRoute/common` directory contains following 3 pre compiled files.
 - skywater130.mw2itf.map
 - skywater130.mw.map
 ```
+
+**Courtesy**:
+
+https://github.com/ganeshgore/skywater-pdk
