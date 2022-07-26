@@ -24,7 +24,7 @@ cd skywater-pdk
 git checkout main
 cd ../
 
-pip install sphinx_materialdesign_theme or pip install sphinx-material
+pip install sphinx_materialdesign_theme
 
 pip install --upgrade symbolator
 }

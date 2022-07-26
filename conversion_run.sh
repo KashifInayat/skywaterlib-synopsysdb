@@ -15,10 +15,10 @@ make $1
 
 # To generate synopsys libraries
 cd vendor/synopsys
-make $1
+make foo=$1 $1
 
 # Replace sc_hd with [sc_hdll, sc_hs, sc_ls or sc_ms] to compile other SC variants
 
 # To place and route sample netlist 
-make icc2_console
+make foo=$1 icc2_console
 
