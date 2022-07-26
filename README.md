@@ -1,4 +1,4 @@
-Synopsys support files
+Synopsys support files Non-Interactive Flow
 =======================
 
 Support files for setting up the technology on Synospys Flow
