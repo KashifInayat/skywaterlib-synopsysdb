@@ -5,8 +5,9 @@ Support files for setting up the technology on Synospys Flow
 Alpha quality, provided as-is, no guarantees.
 
 ```bash
-# To clone the directory and checout with main
+# To clone the directory, checkout with "main" and install pre-required tools:
 ./make_run.sh
+
 # To build skywater-PDK to generate synopsys libraries
 python3 libtodb.py
 
