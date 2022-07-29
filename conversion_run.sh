@@ -22,3 +22,4 @@ make foo=$1 $1
 # To place and route sample netlist 
 make foo=$1 icc2_console
 
+cd ../../../
