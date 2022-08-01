@@ -8,6 +8,10 @@ Alpha quality, provided as-is, no guarantees.
 # To clone the directory, checkout with "main" and install pre-required tools:
 ./make_run.sh
 
+# Make it writeable
+
+chmod 777 -R ../skywaterlib-synopsysdb
+
 # To build skywater-PDK to generate synopsys libraries
 python3 libtodb.py
 
